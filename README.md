@@ -9,6 +9,7 @@ var lastName = "Salah"
 println(lastName)
 
 var age = 19
+
 println(age)
 
 }
